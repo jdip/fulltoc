@@ -4,6 +4,9 @@ docs/build
 *.egg-info
 build
 pbr-*.egg
+.idea
+venv
+.eggs
 
 # Created by pbr
 AUTHORS
